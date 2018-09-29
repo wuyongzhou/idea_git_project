@@ -8,9 +8,4 @@ public class Test2 {
     public void sout2(){
         System.out.println("我只是想测试能不能提交2");
     }
-
-    public void sout3(){
-        System.out.println("我只是想测试能不能提交3");
-    }
-
 }
