@@ -8,5 +8,4 @@ public class Test2 {
     public void testUserName(){
         System.out.println("测试提交时的用户名");
     }
-
 }
